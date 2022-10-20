@@ -5,13 +5,13 @@
 What it is
 How many layers it has
 How it is organized
-What is a LAN
+* What is a LAN
 
-* Typical usage
+Typical usage
 Typical geographical size
-What is a WAN
+* What is a WAN
 
-* Typical usage
+Typical usage
 Typical geographical size
 What is the Internet
 
